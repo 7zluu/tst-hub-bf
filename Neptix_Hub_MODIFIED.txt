@@ -2276,11 +2276,11 @@ do
 	end
 end
 
-local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloxfruitsnokey/Banana/refs/heads/main/Banana/ui.luau"))()
+local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/7zluu/tst-hub-bf/refs/heads/main/ui"))()
 local v237 = lib:CreateWindow({
-	Title = "Banana Hub",
+	Title = "ousaware Hub",
 	Subtitle = "Blox Fruit Script",
-	Image = "rbxassetid://5009915795"
+	Image = "rbxassetid://124249493767914"
 })
 local t15 = {
 	Info = v237:AddTab("Info And Status"),
@@ -31470,8 +31470,8 @@ do
 end
 
 lib:Notify({
-	Title = "Banana Hub",
-	Description = "Banana Hub comeback",
-	Icon = "rbxassetid://5009915795",
+	Title = "ousaware Hub",
+	Description = "ousaware Hub comeback",
+	Icon = "rbxassetid://124249493767914",
 	Duration = 5
 })
